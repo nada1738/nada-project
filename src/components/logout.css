@@ -1,0 +1,38 @@
+.logout{
+    display: grid;  
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: "inter";
+    background-color:var(--ocean-blue);
+
+}
+.logout_button {
+    min-width: 300px;
+    padding: 17px 30px;
+    margin-top: 20px;
+    background: black;
+    border: none;
+    color: white;
+    font-size: 14px;
+    font-family: "Inter";
+    border-radius: 3px;
+}
+.user_name{
+    color: #480ada;
+}
+button {
+    width: 90%;
+    border: none;
+    background-color: var(--blue);
+    color: var( --dark-blue);
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 0.5rem 0;
+    border-radius: 0.5rem;
+  }h1 , button{
+    margin:20px
+}
+h1 {
+    color: var(--light-blue);
+}
